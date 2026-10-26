@@ -1,4 +1,4 @@
-// The teams for tonight's trivia night. You'll use this in Part 3.
+// The teams for tonight's trivia night. You'll use this in Part 1.
 export const teams = [
     { id: 1, name: 'Quizzly Bears', color: '#b5651d' },
     { id: 2, name: 'The Know-It-Owls', color: '#2e7d32' },

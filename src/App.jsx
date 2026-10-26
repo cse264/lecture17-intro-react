@@ -7,12 +7,12 @@ function App() {
     // then import it here and render two of them.
 
 
+    // ===== Part 1: One component, many teams =====
+    // (import teams from './data.js')
+
+
     // ===== Part 2: Lifting state up =====
     // (the scores move up here)
-
-
-    // ===== Part 3: Rendering from data =====
-    // (import teams from './data.js')
 
 
     return (
