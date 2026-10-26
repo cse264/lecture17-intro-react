@@ -4,7 +4,7 @@ Work with a partner. We'll build the first component together up front, then you
 
 Today you're building a scoreboard for a trivia night in React. Each team gets a card with its score and some buttons, and the top of the page shows who's winning.
 
-This repo is the same Vite + React setup we made in lecture with `npm create vite@latest`, with the demo stuff stripped out.
+
 
 ## What's in this repo
 
